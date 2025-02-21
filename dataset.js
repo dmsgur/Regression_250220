@@ -19,10 +19,10 @@ let d1 = new DataSet("선형회귀분석")//메인 타이틀 //메뉴번호
 d1.set_content("공부시간과 성적과의 관련선의 선형성을 가진 연속적인 데이터를 활용하여 연속된 예상값을 추출하는 모델")//서브 타이틀
 d1.set_img(0,{imgtitle:"일부코드샘플",imgurl:"https://drive.google.com/file/d/1Og_D-JpfvOhHybR0ydbSzxskPKzRmii2/view?usp=drive_link",imglog:"시험성적데이터를 임의로 만들어 선형회귀분석 코드",sourceurl:"https://github.com/dmsgur/Regression_250220/blob/codeone/LinearRegression/examp_lg.py"})//이미지타이틀
 d1.set_img(0,{imgtitle:"산점도데이터분석",imgurl:"https://drive.google.com/file/d/1Z3R3Tekf3c_xYFredbII4aVLvBieNdo5/view?usp=drive_link",imglog:"문제데이터의 선형성 관계 파악을 위한 산점도 그래프 분석",sourceurl:"https://github.com/dmsgur/Regression_250220/blob/codeone/LinearRegression/examp_lg.py"})//이미지타이틀
-d1.set_img(0,{imgtitle:"",imgurl:"",imglog:"",sourceurl:"https://github.com/dmsgur/Regression_250220/blob/codeone/LinearRegression/examp_lg.py"})//이미지타이틀
-d1.set_img(0,{imgtitle:"",imgurl:"",imglog:"",sourceurl:"https://github.com/dmsgur/Regression_250220/blob/codeone/LinearRegression/examp_lg.py"})//이미지타이틀
-d1.set_img(0,{imgtitle:"",imgurl:"",imglog:"",sourceurl:"https://github.com/dmsgur/Regression_250220/blob/codeone/LinearRegression/examp_lg.py"})//이미지타이틀
-d1.set_img(0,{imgtitle:"",imgurl:"",imglog:"",sourceurl:"https://github.com/dmsgur/Regression_250220/blob/codeone/LinearRegression/examp_lg.py"})//이미지타이틀
+d1.set_img(0,{imgtitle:"데이터전처리",imgurl:"https://drive.google.com/file/d/1Pwu5tvGT0Rf58SfZg8ac4dcJP8IE4kO-/view?usp=drive_link",imglog:"훈련시 모델의 올바른 학습을 위해 데이터를 정규분포로 표준화 전처리 시행",sourceurl:"https://github.com/dmsgur/Regression_250220/blob/codeone/LinearRegression/examp_lg.py"})//이미지타이틀
+d1.set_img(0,{imgtitle:"선형모델의 구성, 컴파일, 훈련",imgurl:"https://drive.google.com/file/d/1LOKIxCmdpQhauijX2Pqzv8aIvjQ9eJzI/view?usp=drive_link",imglog:"Sequential모델 및 입력출력레이어 작성과 mse 오차손실함수 및 역전파시적용 될 SGD(경사하강법) 최적화함수 적용과 200회 훈련 실행",sourceurl:"https://github.com/dmsgur/Regression_250220/blob/codeone/LinearRegression/examp_lg.py"})//이미지타이틀
+d1.set_img(0,{imgtitle:"훈련결과 시각화",imgurl:"https://drive.google.com/file/d/1f7xU-Q-uiwR18kAA7tyNywSC_kLvW5D8/view?usp=drive_link",imglog:"시각화 그래프 판단시 120회 훈련에서 훈련 조기종료를 검토할수도 있다.",sourceurl:"https://github.com/dmsgur/Regression_250220/blob/codeone/LinearRegression/examp_lg.py"})//이미지타이틀
+d1.set_img(0,{imgtitle:"모델의 예측",imgurl:"https://drive.google.com/file/d/1YOHhgINNAVzdMSN3g7xZvCL938paDNDs/view?usp=drive_link",imglog:"임의의 데이터를 생성하여 모델의 예측 결과를 표기",sourceurl:"https://github.com/dmsgur/Regression_250220/blob/codeone/LinearRegression/examp_lg.py"})//이미지타이틀
 
 
 
