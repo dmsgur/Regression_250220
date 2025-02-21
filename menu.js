@@ -21,9 +21,6 @@ menu3 = new Menu("4. 임시메뉴")
 menu3.url = "?menu=3"
 menu3.tips = ["4.1 임시"]
 
-
-
-
 menu_sets.push(menu0)
 menu_sets.push(menu1)
 menu_sets.push(menu2)
