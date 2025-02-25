@@ -49,8 +49,8 @@ d1.set_img(2,{imgtitle:"훈련을 위한 데이터 선택",imgurl:"https://drive
 d1.set_img(2,{imgtitle:"훈련데이터 전처리",imgurl:"https://drive.google.com/file/d/11CpmSPueHRZU-m1obXgybpWImuPxa9u1/view?usp=drive_link",imglog:"훈련데이터의 수치 폭을 확인후 정규분포데이터로 표준화 실행",sourceurl:"https://github.com/dmsgur/Regression_250220/blob/codeone/LinearRegression/boston_housing.py"})//이미지타이틀
 d1.set_img(2,{imgtitle:"모델구성 및 훈련",imgurl:"https://drive.google.com/file/d/12OtS74xQN5GocjFtJAV-qeh_dyvXq_ps/view?usp=drive_link",imglog:"순차모델 구성과 입출력레이어 추가, MSE 손실함수 및 SGD 최적화 함수를 적용하여 컴파일, 10회 훈련 실시",sourceurl:"https://github.com/dmsgur/Regression_250220/blob/codeone/LinearRegression/boston_housing.py"})//이미지타이틀
 d1.set_img(2,{imgtitle:"훈련결과 시각화",imgurl:"https://drive.google.com/file/d/1Fo0FuYY8h1IM8Bk4oIuiHqOy2huHPwC3/view?usp=drive_link",imglog:"훈련결과 손실값을 시각화 그래프 출력 결과 분석 및 확인",sourceurl:"https://github.com/dmsgur/Regression_250220/blob/codeone/LinearRegression/boston_housing.py"})//이미지타이틀
-d1.set_img(2,{imgtitle:"",imgurl:"",imglog:"",sourceurl:"https://github.com/dmsgur/Regression_250220/blob/codeone/LinearRegression/boston_housing.py"})//이미지타이틀
-d1.set_img(2,{imgtitle:"",imgurl:"",imglog:"",sourceurl:"https://github.com/dmsgur/Regression_250220/blob/codeone/LinearRegression/boston_housing.py"})//이미지타이틀
+d1.set_img(2,{imgtitle:"테스트데이터 추출",imgurl:"https://drive.google.com/file/d/15bCKwsf_jojv0jsttnDKQKogrzsT-XRw/view?usp=drive_link",imglog:"테스트 데이터 필드 추출 및 정규화 실행",sourceurl:"https://github.com/dmsgur/Regression_250220/blob/codeone/LinearRegression/boston_housing.py"})//이미지타이틀
+d1.set_img(2,{imgtitle:"테스트 결과 추측",imgurl:"https://drive.google.com/file/d/1PsHbu_sj73cZW6WppqqI_78EM2wGqe8R/view?usp=drive_link",imglog:"테스트 데이터 예측 오차 확률 23.05%",sourceurl:"https://github.com/dmsgur/Regression_250220/blob/codeone/LinearRegression/boston_housing.py"})//이미지타이틀
 
 d1.set_fill("선형 분석을 위한 데이터 표준화 및 훈련실행시 연관된 데이의 수집과 분석하여 데이터를 선택함이 중요하게 생각된다.")//사용자 에필로그
 data_sets.push(d1)
