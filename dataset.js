@@ -72,6 +72,8 @@ d2.set_img(0,{imgtitle:"예측데이터 출력",imgurl:"https://drive.google.com
 d2.set_img(0,{imgtitle:"혼동행렬과시각화",imgurl:"https://drive.google.com/file/d/1HthhgqYwTe3viWaTJ2XgPswrZwFzHMja/view?usp=drive_link",imglog:"혼동행렬을 출력하여 히트맵으로 실제정답과 예측정답의 예측된 횟수 시각화 실행하여 1종오류와 2종오류에 대한 추측",sourceurl:"https://github.com/dmsgur/Regression_250220/tree/codeone/binary_classification_Regression"})//이미지타이틀
 d2.set_img(0,{imgtitle:"정밀도재현율측정",imgurl:"https://drive.google.com/file/d/1lsy4YUNXr45fLe7ptjNSZVWOSGmIlVXz/view?usp=drive_link",imglog:"훈련결과 모델의 정밀도와 재현율 및 f1-score 를 측정하여 수치 요약",sourceurl:"https://github.com/dmsgur/Regression_250220/tree/codeone/binary_classification_Regression"})//이미지타이틀
 
+d2.set_img(1,{imgtitle:"",imgurl:"",imglog:"",sourceurl:""})//이미지타이틀
+
 d2.set_fill("악성 종양과 양성 종양을 확률적으로 구분 할 수있는 AI  모델 구축")//사용자 에필로그
 data_sets.push(d2)
 
